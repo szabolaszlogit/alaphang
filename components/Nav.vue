@@ -3,7 +3,7 @@
     
 <!-- sidebar -->
   <div class="bg-transparent hidden md:block 
-  max-h-screen overflow-scroll  m-3 pr-24 leading-5 scrollbar ">
+  max-h-screen md:max-h-full overflow-scroll  m-3 pr-24 leading-5 scrollbar ">
       <div>
         <div v-for="link in links" :key="link.name" 
         class="hover:bg-red-100 m-0.5 p-3">
@@ -226,18 +226,99 @@ export default {
           head: false
         },
         {
-          name: 'Alaphang',
+          name: 'Ritmusgitár 2.',
           ref: '/',
+          head: true
+        },
+        {
+          name: 'Akkordkíséret 2.',
+          ref: '/ritmusgitar2/akkordkiseret2',
           head: false
         },
         {
-          name: 'Alaphang ccyxcx xycycx',
-          ref: '/',
+          name: 'Pengető',
+          ref: '/ritmusgitar2/pengeto',
           head: false
         },
         {
-          name: 'Alaphang head22222222222',
-          ref: '/gitar/agitar',
+          name: 'D-moll, B7',
+          ref: '/ritmusgitar2/d-moll-b-7',
+          head: false
+        },
+        {name: 'Akkordkíséret 3.',
+          ref: '/ritmusgitar2/akkordkiseret3',
+          head: false
+        },
+        {name: 'B-moll (H-moll), F-dúr 1.',
+          ref: '/ritmusgitar2/b-moll-d-dur-1',
+          head: false
+        },
+        {name: 'B-moll, könnyített',
+          ref: '/ritmusgitar2/b-moll-konnyitett',
+          head: false
+        },
+        {name: 'F-dúr, könnyített',
+          ref: '/ritmusgitar2/f-dur-konnyitett',
+          head: false
+        },
+        {name: 'F-dúr, teljes',
+          ref: '/ritmusgitar2/f-dur-teljes',
+          head: false
+        },
+        {name: 'B-moll, teljes',
+          ref: '/ritmusgitar2/b-moll-teljes',
+          head: false
+        },
+        {name: 'Hetes akkordok',
+          ref: '/ritmusgitar2/hetes-akkordok',
+          head: false
+        },
+        {name: 'Mobil akkordok',
+          ref: '/',
+          head: true
+        },
+        {name: 'Barrés akkord',
+          ref: '/mobil-akkordok/barres-akkord',
+          head: false
+        },
+        {name: 'Formák',
+          ref: '/mobil-akkordok/formak',
+          head: false
+        },
+        {name: 'Kvintes akkord (power chord)',
+          ref: '/mobil-akkordok/power-chord',
+          head: false
+        },
+        {name: 'Melyik fajtat hasznaljam?',
+          ref: '/mobil-akkordok/melyik-akkordfajtat-hasznaljam',
+          head: false
+        },
+        {name: 'Hangzatfelbontás',
+          ref: '/',
+          head: true
+        },
+        {name: 'Hangzatfelbontás',
+          ref: '/hangzatfelbontas/hangzatfelbontas',
+          head: false
+        },
+        {name: 'Általános bontás',
+          ref: '/hangzatfelbontas/altalanos-bontas',
+          head: false
+        },
+        {name: 'Riffek',
+          ref: '/',
+          head: true
+        },
+        {name: 'Mi az a riff?',
+          ref: '/riffek/riff',
+          head: false
+        },
+        {name: 'Technikák',
+          ref: '/riffek/technikak',
+          head: false
+        },
+        {name: 'Reff gyakorlás',
+          ref: '/riffek/riff-gyakorlas',
           head: false
         },
         {

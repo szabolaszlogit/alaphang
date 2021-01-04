@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="g.svg"
+   sodipodi:docname="d7.svg"
    inkscape:export-filename="C:\projects\temp\alaphang\assets\pages\akkordjeloles\akkorddiagram2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -136,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -187,7 +187,7 @@
        x="231.28249"
        y="103.51382" />
     <rect
-       style="opacity:0.999;fill:#000000;fill-opacity:0.682731;stroke:none;stroke-width:0"
+       style="opacity:0.999;fill:#000000;fill-opacity:0.68273091;stroke:none;stroke-width:0"
        id="rect849-42"
        width="1.9409481"
        height="153.0746"
@@ -236,22 +236,22 @@
     <ellipse
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938"
-       cx="380.58627"
+       cx="383.40747"
        cy="177.90309"
        rx="15.243475"
        ry="15.420724" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956)"
-       x="372.04327"
+       x="374.86447"
        y="186.26134"
        id="text942"><tspan
          sodipodi:role="line"
          id="tspan940"
-         x="372.04327"
+         x="374.86447"
          y="186.26134"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9306px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         rotate="0 0">1</tspan></text>
+         rotate="0 0">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -277,13 +277,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="141.36685"
-       y="90.793617"
+       x="136.07492"
+       y="90.352623"
        id="text962-8"><tspan
          sodipodi:role="line"
          id="tspan960-3"
-         x="141.36685"
-         y="90.793617"
+         x="136.07492"
+         y="90.352623"
          style="font-size:24.6944px;stroke-width:0.264583"> O</tspan></text>
     <text
        xml:space="preserve"
@@ -332,36 +332,36 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="142.43233"
-       y="286.71823"
+       x="142.00992"
+       y="285.89661"
        id="text962-93"><tspan
          sodipodi:role="line"
          id="tspan960-5"
-         x="142.43233"
-         y="286.71823"
+         x="142.00992"
+         y="285.89661"
          style="font-size:24.6944px;stroke-width:0.264583">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="179.0887"
-       y="287.21957"
+       style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="182.27219"
+       y="286.36877"
        id="text962-3"><tspan
          sodipodi:role="line"
          id="tspan960-4"
-         x="179.0887"
-         y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583">G</tspan></text>
+         x="182.27219"
+         y="286.36877"
+         style="font-size:24.6944px;stroke-width:0.264583">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="215.54706"
+       x="213.34209"
        y="287.21957"
        id="text962-51"><tspan
          sodipodi:role="line"
          id="tspan960-8"
-         x="215.54706"
+         x="213.34209"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583"> B</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> C</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -372,59 +372,59 @@
          id="tspan960-0"
          x="252.15549"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583"> G</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583">F#</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="159.98566"
-       y="36.711388"
+       x="155.59616"
+       y="51.056831"
        id="text962-2"><tspan
          sodipodi:role="line"
          id="tspan960-57"
-         x="159.98566"
-         y="36.711388"
-         style="font-size:31.75px;stroke-width:0.264583">G</tspan></text>
+         x="155.59616"
+         y="51.056831"
+         style="font-size:31.75px;stroke-width:0.264583">D7</tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-6"
-       cx="385.5513"
-       cy="138.29129"
+       cx="193.27792"
+       cy="159.459"
        r="15.345834" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956-2)"
-       x="377.98315"
-       y="145.05429"
+       x="185.70978"
+       y="166.222"
        id="text942-6"><tspan
          sodipodi:role="line"
          id="tspan940-4"
-         x="377.98315"
-         y="145.05429"
+         x="185.70978"
+         y="166.222"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9306px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         rotate="0 0">1</tspan></text>
+         rotate="0 0">2</tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-3"
-       cx="112.77395"
-       cy="159.21927"
+       cx="270.06558"
+       cy="159.53662"
        r="15.345834" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956-5)"
-       x="106.04644"
-       y="166.49164"
+       x="263.33807"
+       y="166.80899"
        id="text942-9"><tspan
          sodipodi:role="line"
          id="tspan940-2"
-         x="106.04644"
-         y="166.49164"
+         x="263.33807"
+         y="166.80899"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9306px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         rotate="0 0">1</tspan></text>
+         rotate="0 0">3</tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-2"
-       cx="73.313026"
-       cy="198.2049"
+       cx="379.46011"
+       cy="221.40137"
        r="15.345834" />
     <text
        xml:space="preserve"
@@ -432,24 +432,24 @@
        x="262.79984"
        y="168.03215"
        id="text942-2"
-       transform="matrix(0.97108978,0,0,0.97108978,-188.68621,42.853086)"><tspan
+       transform="matrix(0.97108978,0,0,0.97108978,-147.5765,4.7514084)"><tspan
          sodipodi:role="line"
          id="tspan940-7"
          x="262.79984"
          y="168.03215"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4296px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.60335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         rotate="0 0">2</tspan></text>
+         rotate="0 0"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="181.57806"
-       y="90.793617"
+       x="175.40414"
+       y="90.352623"
        id="text962-7"><tspan
          sodipodi:role="line"
          id="tspan960-27"
-         x="181.57806"
-         y="90.793617"
-         style="font-size:24.6944px;stroke-width:0.264583">O </tspan></text>
+         x="175.40414"
+         y="90.352623"
+         style="font-size:24.6944px;stroke-width:0.264583">  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -460,7 +460,7 @@
          id="tspan960-1"
          x="221.78926"
          y="90.793617"
-         style="font-size:24.6944px;stroke-width:0.264583">O</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583">  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -493,24 +493,24 @@
          id="tspan960-5-59"
          x="65.706093"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583">G</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583">E</tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-6-0"
-       cx="272.44946"
-       cy="197.60835"
+       cx="231.00578"
+       cy="122.35173"
        r="15.345834" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956-2-4)"
-       x="264.28156"
-       y="205.92181"
+       x="223.43767"
+       y="129.11476"
        id="text942-6-8"><tspan
          sodipodi:role="line"
          id="tspan940-4-7"
-         x="264.28156"
-         y="205.92181"
+         x="223.43767"
+         y="129.11476"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9306px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         rotate="0 0">4</tspan></text>
+         rotate="0 0">1</tspan></text>
   </g>
 </svg>

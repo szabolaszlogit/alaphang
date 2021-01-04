@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="g.svg"
+   sodipodi:docname="dm.svg"
    inkscape:export-filename="C:\projects\temp\alaphang\assets\pages\akkordjeloles\akkorddiagram2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -111,7 +111,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59997042"
+     inkscape:zoom="0.52775455"
      inkscape:cx="553.4707"
      inkscape:cy="538.47731"
      inkscape:document-units="px"
@@ -136,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -262,7 +262,7 @@
          id="tspan960"
          x="62.331066"
          y="90.793617"
-         style="font-size:24.6944px;stroke-width:0.264583"> </tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> X</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -273,7 +273,7 @@
          id="tspan960-9"
          x="103.10901"
          y="91.167412"
-         style="font-size:24.6944px;stroke-width:0.264583"> </tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> X</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -350,7 +350,7 @@
          id="tspan960-4"
          x="179.0887"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583">G</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -361,7 +361,7 @@
          id="tspan960-8"
          x="215.54706"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583"> B</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> D</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.6944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -372,18 +372,18 @@
          id="tspan960-0"
          x="252.15549"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583"> G</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> F</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="159.98566"
-       y="36.711388"
+       x="122.38531"
+       y="39.719414"
        id="text962-2"><tspan
          sodipodi:role="line"
          id="tspan960-57"
-         x="159.98566"
-         y="36.711388"
-         style="font-size:31.75px;stroke-width:0.264583">G</tspan></text>
+         x="122.38531"
+         y="39.719414"
+         style="font-size:31.75px;stroke-width:0.264583">D-moll</tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-6"
@@ -405,26 +405,26 @@
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-3"
-       cx="112.77395"
-       cy="159.21927"
+       cx="269.69269"
+       cy="120.61626"
        r="15.345834" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956-5)"
-       x="106.04644"
-       y="166.49164"
+       x="262.96518"
+       y="127.88863"
        id="text942-9"><tspan
          sodipodi:role="line"
          id="tspan940-2"
-         x="106.04644"
-         y="166.49164"
+         x="262.96518"
+         y="127.88863"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9306px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          rotate="0 0">1</tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-2"
-       cx="73.313026"
-       cy="198.2049"
+       cx="194.13545"
+       cy="160.60455"
        r="15.345834" />
     <text
        xml:space="preserve"
@@ -432,7 +432,7 @@
        x="262.79984"
        y="168.03215"
        id="text942-2"
-       transform="matrix(0.97108978,0,0,0.97108978,-188.68621,42.853086)"><tspan
+       transform="matrix(0.97108978,0,0,0.97108978,-67.863785,5.2527464)"><tspan
          sodipodi:role="line"
          id="tspan940-7"
          x="262.79984"
@@ -449,7 +449,7 @@
          id="tspan960-27"
          x="181.57806"
          y="90.793617"
-         style="font-size:24.6944px;stroke-width:0.264583">O </tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583">  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -460,7 +460,7 @@
          id="tspan960-1"
          x="221.78926"
          y="90.793617"
-         style="font-size:24.6944px;stroke-width:0.264583">O</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -482,7 +482,7 @@
          id="tspan960-5-5"
          x="102.31453"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583">B</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -493,24 +493,24 @@
          id="tspan960-5-59"
          x="65.706093"
          y="287.21957"
-         style="font-size:24.6944px;stroke-width:0.264583">G</tspan></text>
+         style="font-size:24.6944px;stroke-width:0.264583"> </tspan></text>
     <circle
        style="opacity:0.999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
        id="path938-6-0"
-       cx="272.44946"
-       cy="197.60835"
+       cx="232.71922"
+       cy="198.9847"
        r="15.345834" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956-2-4)"
-       x="264.28156"
-       y="205.92181"
+       x="224.55132"
+       y="207.29816"
        id="text942-6-8"><tspan
          sodipodi:role="line"
          id="tspan940-4-7"
-         x="264.28156"
-         y="205.92181"
+         x="224.55132"
+         y="207.29816"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.9306px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         rotate="0 0">4</tspan></text>
+         rotate="0 0">3</tspan></text>
   </g>
 </svg>

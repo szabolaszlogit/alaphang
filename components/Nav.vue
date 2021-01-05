@@ -321,6 +321,66 @@ export default {
           ref: '/riffek/riff-gyakorlas',
           head: false
         },
+        {name: 'Szólótechnika',
+          ref: '/',
+          head: true
+        },
+        {name: 'Hogyan tanulj szólózni?',
+          ref: '/szolo/hogyan-tanulj-szolozni',
+          head: false
+        },
+        {name: 'Dúr skála 1.',
+          ref: '/szolo/dur-skala-1',
+          head: false
+        },
+        {name: 'Dúr skála 2.',
+          ref: '/szolo/dur-skala-2',
+          head: false
+        },
+        {name: 'Dúr skála 3.',
+          ref: '/szolo/dur-skala-3',
+          head: false
+        },
+        {name: 'Moll skála',
+          ref: '/szolo/moll-skala',
+          head: false
+        },
+        {name: 'A-moll skála',
+          ref: '/szolo/a-moll-skala',
+          head: false
+        },
+        {name: 'Pentaton skála',
+          ref: '/szolo/pentaton-skala',
+          head: false
+        },
+        {name: 'Blues skála',
+          ref: '/szolo/blues-skala',
+          head: false
+        },
+        {name: 'Skálák vizszintesen',
+          ref: '/szolo/skalak-vizszintesen',
+          head: false
+        },
+        {name: 'Útravaló',
+          ref: '/',
+          head: true
+        },
+        {name: 'Transzponálás',
+          ref: '/utravalo/transzponalas',
+          head: false
+        },
+        {name: 'A hangnem',
+          ref: '/utravalo/hangnem',
+          head: false
+        },
+        {name: 'A kvintkör',
+          ref: '/utravalo/kvintkor',
+          head: false
+        },
+        {name: 'Próba és fellépés',
+          ref: '/utravalo/proba',
+          head: false
+        },
         {
           name: 'Alaphanggggggg utoso',
           ref: '/',

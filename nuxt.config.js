@@ -4,6 +4,9 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
+    htmlAttrs: {
+      lang: 'hu',
+    },
     title: 'Alaphang',
     meta: [
       { charset: 'utf-8' },
@@ -34,6 +37,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    '@nuxtjs/sitemap'
   ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
@@ -42,5 +46,17 @@ export default {
 
   googleAnalytics: {
     id: 'UA-15526777-1'
+  },
+  
+  sitemap: {
+    hostname: 'https://www.alaphang.com',
+    gzip: false,
+    routes: [
+      {
+      }
+    ]
   }
+
+
+  
 }

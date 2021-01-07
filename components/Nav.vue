@@ -7,7 +7,7 @@
       <div>
         <div v-for="link in links" :key="link.name" 
         class="hover:bg-red-100 m-0.5 p-3">
-          <div v-if="link.head" class="font-semibold">{{ link.name }}</div>
+          <div v-if="link.head" class="font-semibold mt-8">{{ link.name }}</div>
           <NuxtLink v-if="!link.head" :to="link.ref"> {{ link.name }}</NuxtLink>
         </div>
       </div>
@@ -40,12 +40,22 @@ export default {
       showmenu: false,
       links: [
         {
+          name: 'Alaphang',
+          ref: '/',
+          head: false
+        },
+        {
+          name: 'Kapcsolat',
+          ref: '/kapcsolat',
+          head: false
+        },
+        {
           name: 'A gitár',
           ref: '/',
           head: true
         },
         {
-          name: 'A gitár',
+          name: 'Mi a gitár?',
           ref: '/gitar/agitar',
           head: false
         },
@@ -297,7 +307,7 @@ export default {
           ref: '/',
           head: true
         },
-        {name: 'Hangzatfelbontás',
+        {name: 'Hangzatbontás',
           ref: '/hangzatfelbontas/hangzatfelbontas',
           head: false
         },
@@ -393,7 +403,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .nuxt-link-exact-active{
   color:blueviolet;
 }

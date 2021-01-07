@@ -8,7 +8,7 @@
   export default {
     data() {
       return {
-        title: 'FFome page'
+        title: 'Alaphang'
       }
     },
     head() {

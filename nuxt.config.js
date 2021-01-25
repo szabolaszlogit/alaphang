@@ -8,10 +8,11 @@ export default {
       lang: 'hu',
     },
     title: 'Alaphang',
+    titleTemplate: 'Tanulj gitározni | %s',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Gitárktatás, tanulj gitározni!' }
+      { hid: 'description', name: 'description', content: 'Gitároktatás az alapoktól mindenkinek.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

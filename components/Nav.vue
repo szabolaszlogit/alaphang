@@ -390,12 +390,7 @@ export default {
         {name: 'Próba és fellépés',
           ref: '/utravalo/proba',
           head: false
-        },
-        {
-          name: 'Alaphanggggggg utoso',
-          ref: '/',
-          head: false
-        },
+        }
       ]
     }
   }

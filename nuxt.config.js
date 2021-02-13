@@ -15,7 +15,7 @@ export default {
       { hid: 'description', name: 'description', content: 'Gitároktatás az alapoktól mindenkinek.' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' }
     ]
   },
 

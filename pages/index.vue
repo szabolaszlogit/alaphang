@@ -18,7 +18,7 @@ Hogyan épül fel a weboldal?</p>
 <p class="info">A gitártanulás kitartást igényel, ez a legfontosabb. Ne add fel túl korán, és az eredmények jönni fognak! </p>
 
              </Cardtext>
-              </Card>
+</Card>
        </div>
 </template>
 

@@ -11,6 +11,7 @@
         </p></NuxtLink>
         </div>
     </div>
+    
   </div>
 </template>
 

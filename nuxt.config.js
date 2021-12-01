@@ -12,10 +12,11 @@ export default {
       'data-cbid': "15211798-aa73-4602-979c-4b597af97e81",
       'data-blockingmode': "auto",
     },
-  {
-   src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3783587879253727",
-     crossorigin: "anonymous",
-  }
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      'data-ad-client': 'ca-pub-3783587879253727',
+      async: true
+    }
   ],
     htmlAttrs: {
       lang: 'hu',
@@ -60,8 +61,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
-    '@nuxtjs/sitemap',
-    '@nuxtjs/google-adsense'
+    '@nuxtjs/sitemap'
   ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
@@ -69,10 +69,6 @@ export default {
 
   googleAnalytics: {
     id: 'UA-15526777-1'
-  },
-
-  'google-adsense': {
-    id: 'ca-pub-3783587879253727'
   },
 
   sitemap: {

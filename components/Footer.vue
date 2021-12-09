@@ -11,7 +11,8 @@
         </p></NuxtLink>
         </div>
     </div>
-    
+      <script id="CookieDeclaration" src="https://consent.cookiebot.com/15211798-aa73-4602-979c-4b597af97e81/cd.js" type="text/javascript" async></script>
+
   </div>
 </template>
 

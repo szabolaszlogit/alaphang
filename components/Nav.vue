@@ -327,7 +327,7 @@ export default {
           ref: '/riffek/technikak',
           head: false
         },
-        {name: 'Reff gyakorlás',
+        {name: 'Riff gyakorlás',
           ref: '/riffek/riff-gyakorlas',
           head: false
         },
